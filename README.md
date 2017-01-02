@@ -7,7 +7,21 @@ de viejos aparatos, como pueden ser impresoras.
 
 Materiales Utilizados
 
--Arduino DUE.
+-Arduino UNO.
 -Módulo BlueTooth GC06.
 -Dos mótores de impresora.
 -Batería.
+
+Repositorio de la aplicación móvil [aquí](https://github.com/lagunetero91/BVController)
+
+#English
+
+This project is about a small vehicle controlled by Bluetooth from a mobile app. 
+
+This vehicle is built from an Arduino UNO, and the different pieces where recycled from another devices, for example printers.
+
+Resources:
+-Arduino UNO.
+-BlueTooth GC06 module.
+-Two printer motors.
+-Battery.
