@@ -12,6 +12,11 @@ Materiales Utilizados
 -Dos mótores de impresora.
 -Batería.
 
+Librerias Adicionales
+
+SoftwareSerial. https://www.arduino.cc/en/Reference/SoftwareSerial
+
+
 Repositorio de la aplicación móvil [aquí](https://github.com/lagunetero91/BVController)
 
 #English
