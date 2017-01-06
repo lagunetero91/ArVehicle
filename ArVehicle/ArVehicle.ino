@@ -11,6 +11,10 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   if(receiveCommand() == 0){
+   #if defined(_DEBUG)
+    Serial.print("El comando es: "); 
+    Serial.println(command);
+   #endif
    uint8_t status = moveVehicle((uint8_t)atoi(command.c_str()));
    #if defined(_DEBUG)
     Serial.print("moveVehicle devolvió: "); 
